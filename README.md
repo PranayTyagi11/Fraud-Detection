@@ -42,21 +42,16 @@ You can download the dataset from Kaggle here:
 
 ## Libraries
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+pandas, 
+numpy, 
+matplotlib, 
+seaborn, 
+scikit-learn, 
 imbalanced-learn
 
 ## File structure
 
-Fraud_Detection_Project/
-├── data/
-│   └── creditcard.csv      # Dataset (not included, download from Kaggle)
-├── results/
-│   └── output.txt          # Auto-generated results
-├── fraud_detection.py      # Main script
-├── requirements.txt        # Dependencies
-├── README.md               # Project documentation
+Fraud_Detection_Project/ data/creditcard.csv  # Downloaded from kaggle  
+Fraud_Detection_Project/results/ output.txt   # Auto-generated results 
+Fraud_Detection_Project/fraud_detection.py    # Main script 
 
