@@ -51,7 +51,7 @@ imbalanced-learn
 
 ## File structure
 
-Fraud_Detection_Project/ data/creditcard.csv  # Downloaded from kaggle  
-Fraud_Detection_Project/results/ output.txt   # Auto-generated results 
+Fraud_Detection_Project/ data/creditcard.csv  # Downloaded from kaggle,   
+Fraud_Detection_Project/results/ output.txt   # Auto-generated results,  
 Fraud_Detection_Project/fraud_detection.py    # Main script 
 
